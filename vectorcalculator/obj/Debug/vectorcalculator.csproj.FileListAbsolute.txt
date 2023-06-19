@@ -1,0 +1,11 @@
+C:\Users\jug11\OneDrive\바탕 화면\vectorcalculator\vectorcalculator\bin\Debug\vectorcalculator.exe.config
+C:\Users\jug11\OneDrive\바탕 화면\vectorcalculator\vectorcalculator\bin\Debug\vectorcalculator.exe
+C:\Users\jug11\OneDrive\바탕 화면\vectorcalculator\vectorcalculator\bin\Debug\vectorcalculator.pdb
+C:\Users\jug11\OneDrive\바탕 화면\vectorcalculator\vectorcalculator\obj\Debug\vectorcalculator.csproj.AssemblyReference.cache
+C:\Users\jug11\OneDrive\바탕 화면\vectorcalculator\vectorcalculator\obj\Debug\vectorcalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\jug11\OneDrive\바탕 화면\vectorcalculator\vectorcalculator\obj\Debug\vectorcalculator.Form1.resources
+C:\Users\jug11\OneDrive\바탕 화면\vectorcalculator\vectorcalculator\obj\Debug\vectorcalculator.Properties.Resources.resources
+C:\Users\jug11\OneDrive\바탕 화면\vectorcalculator\vectorcalculator\obj\Debug\vectorcalculator.csproj.GenerateResource.cache
+C:\Users\jug11\OneDrive\바탕 화면\vectorcalculator\vectorcalculator\obj\Debug\vectorcalculator.csproj.CoreCompileInputs.cache
+C:\Users\jug11\OneDrive\바탕 화면\vectorcalculator\vectorcalculator\obj\Debug\vectorcalculator.exe
+C:\Users\jug11\OneDrive\바탕 화면\vectorcalculator\vectorcalculator\obj\Debug\vectorcalculator.pdb
